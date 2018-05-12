@@ -1,0 +1,27 @@
+_repo: The-Taming-of-the-Jungle_35644
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35644-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Doyle, C. W. (Charles William)
+    alias: Doyle, Charles William
+    birthdate: 1852
+    deathdate: 1903
+    gutenberg_agent_id: '37801'
+    url: http://www.gutenberg.org/2009/agents/37801
+description: ''
+gutenberg_issued: '2011-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35644'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Kumaun (India) -- Fiction'
+title: The Taming of the Jungle
+url: http://www.gutenberg.org/ebooks/35644
